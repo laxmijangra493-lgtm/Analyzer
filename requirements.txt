@@ -1,0 +1,8 @@
+streamlit
+plotly
+yfinance
+pandas
+requests
+feedparser
+python-dateutil
+bcrypt
